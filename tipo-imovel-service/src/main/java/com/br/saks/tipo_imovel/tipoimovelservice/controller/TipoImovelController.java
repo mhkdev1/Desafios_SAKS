@@ -1,9 +1,9 @@
-package com.br.saks.tipoimovelservice.controller;
+package com.br.saks.tipo_imovel.tipoimovelservice.controller;
 
-import com.br.saks.tipoimovelservice.model.Imovel;
-import com.br.saks.tipoimovelservice.model.TipoImovel;
-import com.br.saks.tipoimovelservice.repository.TipoImovelRepository;
-import com.br.saks.tipoimovelservice.service.ImovelService;
+import com.br.saks.tipo_imovel.tipoimovelservice.model.Imovel;
+import com.br.saks.tipo_imovel.tipoimovelservice.model.TipoImovel;
+import com.br.saks.tipo_imovel.tipoimovelservice.repository.TipoImovelRepository;
+import com.br.saks.tipo_imovel.tipoimovelservice.service.ImovelService;
 
 import java.util.List;
 import java.util.Optional;

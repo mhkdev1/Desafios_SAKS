@@ -1,4 +1,4 @@
-package com.br.saks.tipoimovelservice;
+package com.br.saks.tipo_imovel.tipoimovelservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

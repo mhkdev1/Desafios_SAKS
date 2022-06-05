@@ -1,4 +1,4 @@
-package com.br.saks.tipoimovelservice;
+package com.br.saks.tipo_imovel.tipoimovelservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

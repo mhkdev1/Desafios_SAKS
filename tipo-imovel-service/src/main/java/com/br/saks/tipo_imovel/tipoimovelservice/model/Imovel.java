@@ -1,4 +1,4 @@
-package com.br.saks.tipoimovelservice.model;
+package com.br.saks.tipo_imovel.tipoimovelservice.model;
 
 import java.util.Date;
 
