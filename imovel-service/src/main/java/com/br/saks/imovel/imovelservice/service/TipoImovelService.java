@@ -1,6 +1,6 @@
-package com.br.saks.imovelservice.service;
+package com.br.saks.imovel.imovelservice.service;
 
-import com.br.saks.imovelservice.model.TipoImovel;
+import com.br.saks.imovel.imovelservice.model.TipoImovel;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

@@ -1,4 +1,4 @@
-package com.br.saks.imovelservice.model;
+package com.br.saks.imovel.imovelservice.model;
 
 public class TipoImovel {
     private Long id;

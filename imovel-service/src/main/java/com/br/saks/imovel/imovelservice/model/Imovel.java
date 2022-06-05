@@ -1,4 +1,4 @@
-package com.br.saks.imovelservice.model;
+package com.br.saks.imovel.imovelservice.model;
 
 import java.util.Date;
 import javax.persistence.Column;
@@ -17,7 +17,7 @@ public class Imovel {
     private Long id;
     
     @Column(nullable = false, name = "id_tipo_imovel")
-    private Long id_Tipo_Imovel;
+    private Long idTipoImovel;
     
     @Column(nullable = false, length = 100)
     private String titulo;
